@@ -15,5 +15,6 @@ namespace FirstConsole
         }
 
         public DbSet<Donator> Donators { get; set; }
+        public DbSet<PayWay> PayWays { get; set; }
     }
 }

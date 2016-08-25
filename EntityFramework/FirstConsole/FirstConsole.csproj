@@ -54,6 +54,8 @@
   <ItemGroup>
     <Compile Include="Context.cs" />
     <Compile Include="Donator.cs" />
+    <Compile Include="Initializer.cs" />
+    <Compile Include="PayWay.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
